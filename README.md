@@ -1,1 +1,1 @@
-# ml_linear_regression
+# Get started with Python and Scikit-learn for regression models
